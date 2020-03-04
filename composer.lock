@@ -4,23 +4,26 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "586b935216e81fe589376902f97d31bb",
+    "content-hash": "3c144a27a70001efbea3dd99daae31d4",
     "packages": [
         {
             "name": "wesbos/burner-email-providers",
-            "version": "0.0.1",
+            "version": "1.0.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wesbos/burner-email-providers.git",
                 "reference": "master"
             },
-            "type": "library"
+            "type": "library",
+            "time": "2019-12-12T11:50:12+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "wesbos/burner-email-providers": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
