@@ -11,7 +11,7 @@
             "type": "package",
             "package": {
                 "name": "wesbos/burner-email-providers",
-                "version": "master",
+                "version": "0.0.1",
                 "source": {
                     "url": "https://github.com/wesbos/burner-email-providers.git",
                     "type": "git",
@@ -21,6 +21,6 @@
         }
     ],
     "require": {
-        "wesbos/burner-email-providers": "dev-master"
+        "wesbos/burner-email-providers": "0.0.1"
     }
 }
