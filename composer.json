@@ -1,0 +1,26 @@
+{
+    "name": "secit/composer-test",
+    "authors": [
+        {
+            "name": "Tomasz Gemza",
+            "email": "t.gemza@secit.pl"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "wesbos/burner-email-providers",
+                "version": "master",
+                "source": {
+                    "url": "https://github.com/wesbos/burner-email-providers.git",
+                    "type": "git",
+                    "reference":"master"
+                }
+            }
+        }
+    ],
+    "require": {
+        "wesbos/burner-email-providers": "dev-master"
+    }
+}

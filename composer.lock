@@ -1,0 +1,31 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "7af758a355fa34bc86c9923d030f05d0",
+    "packages": [
+        {
+            "name": "wesbos/burner-email-providers",
+            "version": "master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/wesbos/burner-email-providers.git",
+                "reference": "master"
+            },
+            "type": "library",
+            "time": "2019-12-12T11:50:12+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "wesbos/burner-email-providers": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
